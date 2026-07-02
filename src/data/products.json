@@ -1,0 +1,152 @@
+[
+  {
+    "id": "bike-001",
+    "name": "Domane SL 6 Disc",
+    "brand": "Trek",
+    "category": "Bikes",
+    "price": 289000,
+    "stock": 4,
+    "description": "The Trek Domane SL 6 Disc is a premium endurance road bike featuring a full carbon frame, Shimano 105 Di2 groupset, and hydraulic disc brakes.",
+    "images": [
+      { "url": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&q=80&w=800" }
+    ],
+    "ratings": { "average": 4.8, "count": 42 },
+    "tags": ["road", "endurance", "carbon", "disc"],
+    "featured": true
+  },
+  {
+    "id": "bike-002",
+    "name": "TCR Advanced Pro 2",
+    "brand": "Giant",
+    "category": "Bikes",
+    "price": 345000,
+    "stock": 2,
+    "description": "Giant's TCR Advanced Pro 2 is the pinnacle of lightweight race performance with Shimano Ultegra Di2.",
+    "images": [
+      { "url": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?auto=format&fit=crop&q=80&w=800" }
+    ],
+    "ratings": { "average": 4.9, "count": 27 },
+    "tags": ["race", "carbon", "lightweight"],
+    "featured": true
+  },
+  {
+    "id": "bike-003",
+    "name": "Tarmac SL7 Expert",
+    "brand": "Specialized",
+    "category": "Bikes",
+    "price": 412000,
+    "stock": 1,
+    "description": "Perfect blend of aerodynamics and climbing performance with Shimano Ultegra groupset.",
+    "images": [
+      { "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&q=80&w=800" }
+    ],
+    "ratings": { "average": 5.0, "count": 18 },
+    "tags": ["aero", "race", "carbon"],
+    "featured": true
+  },
+  {
+    "id": "apparel-001",
+    "name": "Aero Pro Race Jersey",
+    "brand": "Shift",
+    "category": "Apparels",
+    "price": 4500,
+    "stock": 18,
+    "description": "Ultra-lightweight, moisture-wicking Italian Lycra race jersey with 3 rear pockets and full YKK zipper.",
+    "images": [
+      { "url": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&q=80&w=800" }
+    ],
+    "ratings": { "average": 4.8, "count": 134 },
+    "tags": ["jersey", "race", "aero"],
+    "featured": true
+  },
+  {
+    "id": "apparel-002",
+    "name": "Carbon Bib Shorts Elite",
+    "brand": "Shift",
+    "category": "Apparels",
+    "price": 6200,
+    "stock": 12,
+    "description": "Professional-grade bib shorts with Italian Elastic Interface Cytech HP1 chamois. Superior comfort on any ride.",
+    "images": [
+      { "url": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?auto=format&fit=crop&q=80&w=800" }
+    ],
+    "ratings": { "average": 4.9, "count": 87 },
+    "tags": ["bib shorts", "chamois", "comfort"],
+    "featured": true
+  },
+  {
+    "id": "apparel-003",
+    "name": "Windbreaker Pro Jacket",
+    "brand": "Specialized",
+    "category": "Apparels",
+    "price": 9800,
+    "stock": 6,
+    "description": "Packable race-cut windbreaker with DWR finish and WindTex fabric. Stows into its own rear pocket.",
+    "images": [
+      { "url": "https://images.unsplash.com/photo-1556906781-9a412961a28c?auto=format&fit=crop&q=80&w=800" }
+    ],
+    "ratings": { "average": 4.7, "count": 55 },
+    "tags": ["jacket", "wind", "packable"],
+    "featured": true
+  },
+  {
+    "id": "acc-001",
+    "name": "SL Power Meter — Dual Sided",
+    "brand": "Shimano",
+    "category": "Accessories",
+    "price": 32000,
+    "stock": 3,
+    "description": "Accurate dual-sided power measurement with ±1% accuracy, ANT+/Bluetooth dual transmission.",
+    "images": [
+      { "url": "https://images.unsplash.com/photo-1544117519-31a4b719223d?auto=format&fit=crop&q=80&w=800" }
+    ],
+    "ratings": { "average": 4.9, "count": 18 },
+    "tags": ["power meter", "training", "data"],
+    "featured": true
+  },
+  {
+    "id": "acc-002",
+    "name": "Garmin Edge 1040 Solar",
+    "brand": "Garmin",
+    "category": "Accessories",
+    "price": 54000,
+    "stock": 2,
+    "description": "Flagship GPS cycling computer with solar charging, full-color mapping, and 45 hours battery life.",
+    "images": [
+      { "url": "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&q=80&w=800" }
+    ],
+    "ratings": { "average": 4.8, "count": 34 },
+    "tags": ["GPS", "computer", "navigation"],
+    "featured": true
+  },
+  {
+    "id": "spare-001",
+    "name": "Shimano Dura-Ace R9200 Groupset",
+    "brand": "Shimano",
+    "category": "Spares",
+    "price": 145000,
+    "stock": 2,
+    "description": "The pinnacle of Shimano's 12-speed Di2 electronic groupset with 0.5mm precision shifting.",
+    "images": [
+      { "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&q=80&w=800" }
+    ],
+    "ratings": { "average": 5.0, "count": 9 },
+    "tags": ["groupset", "Dura-Ace", "Di2"],
+    "featured": true
+  },
+  {
+    "id": "spare-004",
+    "name": "Continental GP 5000 S TR Tyre",
+    "brand": "Continental",
+    "category": "Spares",
+    "price": 4800,
+    "stock": 22,
+    "description": "Gold standard in road tubeless tyres. Black Chili compound for exceptional rolling resistance.",
+    "images": [
+      { "url": "https://images.unsplash.com/photo-1487956382158-bb926046304a?auto=format&fit=crop&q=80&w=800" }
+    ],
+    "ratings": { "average": 4.9, "count": 210 },
+    "tags": ["tyre", "tubeless", "road"],
+    "featured": true
+  }
+]

@@ -1,0 +1,441 @@
+[
+  {
+    "id": "bike-001",
+    "name": "Domane SL 6 Disc",
+    "brand": "Trek",
+    "category": "Bikes",
+    "price": 289000,
+    "stock": 4,
+    "description": "The Trek Domane SL 6 Disc is a premium endurance road bike featuring a full carbon frame, Shimano 105 Di2 groupset, and hydraulic disc brakes. Engineered for long-distance comfort without sacrificing speed.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507035895480-2b3156c31fc8?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1544191696-102dbdaeeaa0?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.8,
+      "count": 42
+    },
+    "tags": [
+      "road",
+      "endurance",
+      "carbon",
+      "disc"
+    ],
+    "sizes": [
+      "XS (47cm)",
+      "S (52cm)",
+      "M (54cm)",
+      "L (56cm)",
+      "XL (58cm)"
+    ],
+    "specifications": {
+      "Frame": "Trek OCLV 500 Carbon, IsoSpeed decoupler",
+      "Fork": "Trek Carbon, IsoSpeed, flat mount disc",
+      "Groupset": "Shimano 105 Di2 (12-speed)",
+      "Brakes": "Shimano 105 hydraulic disc",
+      "Crankset": "Shimano 105, 52/36T",
+      "Cassette": "Shimano 105, 11-34T",
+      "Wheels": "Bontrager Paradigm Comp TLR",
+      "Tyres": "Bontrager R2 Hard-Case Lite, 700x32c",
+      "Handlebar": "Bontrager Elite IsoCore",
+      "Bottom Bracket": "Shimano press-fit",
+      "Saddle": "Bontrager Montrose Elite",
+      "Weight": "8.3 kg (56cm)"
+    },
+    "featured": true
+  },
+  {
+    "id": "bike-002",
+    "name": "TCR Advanced Pro 2",
+    "brand": "Giant",
+    "category": "Bikes",
+    "price": 345000,
+    "stock": 2,
+    "description": "Giant's TCR Advanced Pro 2 is the pinnacle of lightweight race performance. Full Advanced-Grade carbon frame with Shimano Ultegra Di2 and Giant's proprietary power transfer geometry.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1541625602330-2277a1c4b6c3?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.9,
+      "count": 27
+    },
+    "tags": [
+      "race",
+      "carbon",
+      "lightweight"
+    ],
+    "sizes": [
+      "XS (44cm)",
+      "S (49cm)",
+      "M (52cm)",
+      "ML (54cm)",
+      "L (56cm)"
+    ],
+    "specifications": {
+      "Frame": "Giant Advanced-Grade Carbon, OverDrive 2",
+      "Fork": "Giant Advanced-Grade Carbon, OverDrive 2",
+      "Groupset": "Shimano Ultegra Di2 R8150 (12-speed)",
+      "Brakes": "Shimano Ultegra hydraulic disc",
+      "Crankset": "Shimano Ultegra, 50/34T",
+      "Cassette": "Shimano Ultegra, 11-30T",
+      "Wheels": "Giant SLR 1 42mm Carbon",
+      "Tyres": "Giant Gavia Course 0, 700x25c TLR",
+      "Handlebar": "Giant Contact SLR Carbon",
+      "Bottom Bracket": "Giant PowerCore",
+      "Saddle": "Giant Contact SLR Forward",
+      "Weight": "7.4 kg (M)"
+    },
+    "featured": true
+  },
+  {
+    "id": "bike-003",
+    "name": "Tarmac SL7 Expert",
+    "brand": "Specialized",
+    "category": "Bikes",
+    "price": 412000,
+    "stock": 1,
+    "description": "The Specialized Tarmac SL7 Expert delivers a perfect blend of aerodynamics and climbing performance. Equipped with Shimano Ultegra groupset and FACT 10r carbon construction.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1533234427049-9e9bb093186d?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1571333250630-f0230c373950?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507035895480-2b3156c31fc8?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 5.0,
+      "count": 18
+    },
+    "tags": [
+      "aero",
+      "race",
+      "carbon",
+      "climbing"
+    ],
+    "sizes": [
+      "44cm",
+      "49cm",
+      "52cm",
+      "54cm",
+      "56cm",
+      "58cm",
+      "61cm"
+    ],
+    "specifications": {
+      "Frame": "Specialized FACT 10r Carbon, Rider-First Engineered",
+      "Fork": "Specialized FACT Carbon, 12mm thru-axle",
+      "Groupset": "Shimano Ultegra R8000 (11-speed)",
+      "Brakes": "Shimano Ultegra hydraulic disc",
+      "Crankset": "Specialized FACT Carbon, 52/36T",
+      "Cassette": "Shimano Ultegra, 11-28T",
+      "Wheels": "Roval Rapide CLX 50",
+      "Tyres": "Specialized S-Works Turbo RapidAir, 700x26c",
+      "Handlebar": "Specialized Shallow Bend Carbon",
+      "Bottom Bracket": "Threaded BSA",
+      "Saddle": "Specialized Power Comp with MIMIC",
+      "Weight": "6.8 kg (56cm)"
+    },
+    "featured": true
+  },
+  {
+    "id": "bike-004",
+    "name": "Shift Carbon X1 Pro",
+    "brand": "Shift",
+    "category": "Bikes",
+    "price": 198000,
+    "stock": 7,
+    "description": "Shift's own flagship carbon road bike designed and assembled in Dibrugarh. Custom-tuned geometry for Northeast India's mountain and valley terrain with Shimano 105 R7000 groupset.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1533234427049-9e9bb093186d?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1544191696-102dbdaeeaa0?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1541625602330-2277a1c4b6c3?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.7,
+      "count": 63
+    },
+    "tags": [
+      "custom",
+      "carbon",
+      "local",
+      "flagship"
+    ],
+    "sizes": [
+      "S (52cm)",
+      "M (54cm)",
+      "L (56cm)",
+      "XL (58cm)"
+    ],
+    "specifications": {
+      "Frame": "Shift T800 Carbon, custom NE India geometry",
+      "Fork": "Shift Full Carbon, tapered steerer",
+      "Groupset": "Shimano 105 R7000 (11-speed)",
+      "Brakes": "Shimano 105 R7070 hydraulic disc",
+      "Crankset": "Shimano 105, 50/34T",
+      "Cassette": "Shimano 105, 11-32T",
+      "Wheels": "DT Swiss R470 DB",
+      "Tyres": "Vittoria Zaffiro Pro, 700x28c",
+      "Handlebar": "Shift Alloy Compact",
+      "Bottom Bracket": "Threaded BSA",
+      "Saddle": "Selle Royal Asphalt",
+      "Weight": "8.7 kg (54cm)"
+    },
+    "featured": false
+  },
+  {
+    "id": "bike-005",
+    "name": "Emonda SL 5",
+    "brand": "Trek",
+    "category": "Bikes",
+    "price": 185000,
+    "stock": 5,
+    "description": "Ultra-lightweight climbing machine from Trek. The Émonda SL 5 uses SL-grade carbon to achieve one of the best power-to-weight ratios in its class, paired with Shimano 105 mechanical groupset.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1544191696-102dbdaeeaa0?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1533234427049-9e9bb093186d?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.6,
+      "count": 34
+    },
+    "tags": [
+      "climbing",
+      "lightweight",
+      "carbon"
+    ],
+    "sizes": [
+      "XS (47cm)",
+      "S (50cm)",
+      "M (54cm)",
+      "L (56cm)",
+      "XL (60cm)"
+    ],
+    "specifications": {
+      "Frame": "Trek OCLV 500 SL Carbon, IsoSpeed",
+      "Fork": "Trek SL Carbon, 12mm thru-axle",
+      "Groupset": "Shimano 105 R7000 (11-speed)",
+      "Brakes": "Shimano 105 R7070 hydraulic disc",
+      "Crankset": "Shimano 105, 52/36T",
+      "Cassette": "Shimano 105, 11-30T",
+      "Wheels": "Bontrager Paradigm Comp TLR",
+      "Tyres": "Bontrager R2 Hard-Case Lite, 700x25c",
+      "Handlebar": "Bontrager Elite IsoCore Compact",
+      "Bottom Bracket": "Shimano press-fit",
+      "Saddle": "Bontrager Montrose Elite",
+      "Weight": "7.9 kg (54cm)"
+    },
+    "featured": false
+  },
+  {
+    "id": "bike-006",
+    "name": "Propel Advanced SL 0",
+    "brand": "Giant",
+    "category": "Bikes",
+    "price": 520000,
+    "stock": 1,
+    "description": "Giant's ultimate aero road bike using Advanced SL-grade carbon. The Propel comes with SRAM Red eTap AXS wireless groupset, making this one of the most technologically advanced bikes available.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1541625602330-2277a1c4b6c3?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1571333250630-f0230c373950?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507035895480-2b3156c31fc8?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.9,
+      "count": 11
+    },
+    "tags": [
+      "aero",
+      "top-tier",
+      "wireless",
+      "SRAM"
+    ],
+    "sizes": [
+      "XS (44cm)",
+      "S (49cm)",
+      "M (52cm)",
+      "ML (54cm)",
+      "L (56cm)"
+    ],
+    "specifications": {
+      "Frame": "Giant Advanced SL-Grade Carbon, AeroSystem Shaping",
+      "Fork": "Giant Advanced SL Carbon, integrated",
+      "Groupset": "SRAM Red eTap AXS (12-speed wireless)",
+      "Brakes": "SRAM Red HRD hydraulic disc",
+      "Crankset": "SRAM Red AXS Power Meter, 50/37T",
+      "Cassette": "SRAM Red XG-1290, 10-28T",
+      "Wheels": "Giant SLR 0 42mm Carbon TLR",
+      "Tyres": "Giant Gavia Course 0, 700x25c TLR",
+      "Handlebar": "Giant Contact SLR Aero Carbon",
+      "Bottom Bracket": "Giant PowerCore threaded",
+      "Saddle": "Fizik Ares R1",
+      "Weight": "6.9 kg (ML)"
+    },
+    "featured": false
+  },
+  {
+    "id": "bike-007",
+    "name": "Shift Alloy Gravel GX",
+    "brand": "Shift",
+    "category": "Bikes",
+    "price": 95000,
+    "stock": 9,
+    "description": "Built for Assam's diverse terrain, the Shift Alloy Gravel GX handles unpaved roads with ease. Aluminum frame, mechanical disc brakes, and wide 40c clearance for maximum versatility.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1571333250630-f0230c373950?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1544191696-102dbdaeeaa0?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.5,
+      "count": 89
+    },
+    "tags": [
+      "gravel",
+      "alloy",
+      "versatile",
+      "beginner-friendly"
+    ],
+    "sizes": [
+      "S (50cm)",
+      "M (53cm)",
+      "L (56cm)",
+      "XL (59cm)"
+    ],
+    "specifications": {
+      "Frame": "Shift 6061 Alloy, double-butted, rack/fender mounts",
+      "Fork": "Shift Steel Gravel, 12mm thru-axle",
+      "Groupset": "Shimano GRX 600 (11-speed)",
+      "Brakes": "Shimano GRX RX400 hydraulic disc",
+      "Crankset": "Shimano GRX, 46/30T",
+      "Cassette": "Shimano 105, 11-34T",
+      "Wheels": "WTB ST i23 TCS, 700c",
+      "Tyres": "WTB Riddler TCS, 700x37c",
+      "Handlebar": "Shift Gravel Flare, 16° flare",
+      "Bottom Bracket": "Threaded BSA",
+      "Saddle": "WTB Volt Race",
+      "Weight": "10.2 kg (M)"
+    },
+    "featured": false
+  },
+  {
+    "id": "bike-008",
+    "name": "Roubaix Comp",
+    "brand": "Specialized",
+    "category": "Bikes",
+    "price": 268000,
+    "stock": 3,
+    "description": "The Specialized Roubaix Comp features the revolutionary Future Shock 2.0 front suspension and Shimano Ultegra groupset. Designed to tame rough roads while maintaining race-level efficiency.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1507035895480-2b3156c31fc8?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1533234427049-9e9bb093186d?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1541625602330-2277a1c4b6c3?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1571333250630-f0230c373950?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.7,
+      "count": 22
+    },
+    "tags": [
+      "endurance",
+      "comfort",
+      "carbon",
+      "suspension"
+    ],
+    "sizes": [
+      "44cm",
+      "49cm",
+      "52cm",
+      "54cm",
+      "56cm",
+      "58cm"
+    ],
+    "specifications": {
+      "Frame": "Specialized FACT 10r Carbon, Rider-First Engineered",
+      "Fork": "Specialized FACT Carbon with Future Shock 2.0 (20mm travel)",
+      "Groupset": "Shimano Ultegra R8000 (11-speed)",
+      "Brakes": "Shimano Ultegra R8070 hydraulic disc",
+      "Crankset": "Shimano Ultegra, 50/34T",
+      "Cassette": "Shimano Ultegra, 11-32T",
+      "Wheels": "Roval Alpinist CLX II",
+      "Tyres": "Specialized Turbo Cotton Hell of the North, 700x30c",
+      "Handlebar": "Specialized Expert Alloy Shallow",
+      "Bottom Bracket": "Threaded BSA",
+      "Saddle": "Specialized Power Comp with MIMIC",
+      "Weight": "8.1 kg (54cm)"
+    },
+    "featured": false
+  }
+]

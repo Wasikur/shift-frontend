@@ -1,0 +1,202 @@
+[
+  {
+    "id": "apparel-001",
+    "name": "Aero Pro Race Jersey",
+    "brand": "Shift",
+    "category": "Apparels",
+    "price": 4500,
+    "stock": 18,
+    "description": "Shift's flagship race-cut cycling jersey. Ultra-lightweight, moisture-wicking Italian Lycra with a full-length YKK zipper, 3 rear pockets, and a hidden zipped fourth pocket. Designed for maximum aerodynamic efficiency.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.8,
+      "count": 134
+    },
+    "tags": [
+      "jersey",
+      "race",
+      "aero",
+      "summer"
+    ],
+    "featured": true
+  },
+  {
+    "id": "apparel-002",
+    "name": "Carbon Bib Shorts Elite",
+    "brand": "Shift",
+    "category": "Apparels",
+    "price": 6200,
+    "stock": 12,
+    "description": "Professional-grade bib shorts with a 6-panel anatomical construction and Italian Elastic Interface Cytech HP1 chamois. Provides superior comfort on climbs and long-distance rides.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.9,
+      "count": 87
+    },
+    "tags": [
+      "bib shorts",
+      "chamois",
+      "comfort",
+      "summer"
+    ],
+    "featured": true
+  },
+  {
+    "id": "apparel-003",
+    "name": "Windbreaker Pro Jacket",
+    "brand": "Specialized",
+    "category": "Apparels",
+    "price": 9800,
+    "stock": 6,
+    "description": "Packable race-cut windbreaker with a DWR finish and WindTex fabric. Features reflective accents for low-light visibility and stows compactly into its own rear pocket.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1556906781-9a412961a28c?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.7,
+      "count": 55
+    },
+    "tags": [
+      "jacket",
+      "wind",
+      "packable",
+      "winter"
+    ],
+    "featured": true
+  },
+  {
+    "id": "apparel-004",
+    "name": "Thermal Leg Warmers",
+    "brand": "Shift",
+    "category": "Apparels",
+    "price": 2200,
+    "stock": 24,
+    "description": "Fleece-lined leg warmers designed for cold-weather riding below 12°C. Silicon gripper at the thigh and ankle ensures they stay in place even on the hardest efforts.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.5,
+      "count": 41
+    },
+    "tags": [
+      "leg warmers",
+      "thermal",
+      "winter",
+      "cold"
+    ],
+    "featured": false
+  },
+  {
+    "id": "apparel-005",
+    "name": "Team Edition Cycling Cap",
+    "brand": "Shift",
+    "category": "Apparels",
+    "price": 850,
+    "stock": 50,
+    "description": "Classic cotton-blend cycling cap with a short brim to shield from sun and rain. Fits under a helmet and features the Shift logo embroidered on the side panel.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.6,
+      "count": 203
+    },
+    "tags": [
+      "cap",
+      "casual",
+      "summer",
+      "accessory"
+    ],
+    "featured": false
+  },
+  {
+    "id": "apparel-006",
+    "name": "Pro Grip Cycling Gloves",
+    "brand": "Trek",
+    "category": "Apparels",
+    "price": 1800,
+    "stock": 30,
+    "description": "Half-finger cycling gloves with silicone grip pads on the palm and gel padding at the heel of the hand. Microfiber thumb wipe for on-bike use.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1544966503-7cc5ac882d5e?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.4,
+      "count": 78
+    },
+    "tags": [
+      "gloves",
+      "summer",
+      "grip",
+      "comfort"
+    ],
+    "featured": false
+  },
+  {
+    "id": "apparel-007",
+    "name": "Aero Helmet — Prevail 3",
+    "brand": "Specialized",
+    "category": "Apparels",
+    "price": 21500,
+    "stock": 4,
+    "description": "The Specialized Prevail 3 ANGI helmet combines maximum ventilation with premium aerodynamics. Features Specialized ANGI crash sensor compatibility and MIPS protection system.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1601158935942-52255782d322?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.9,
+      "count": 29
+    },
+    "tags": [
+      "helmet",
+      "aero",
+      "safety",
+      "MIPS"
+    ],
+    "featured": false
+  },
+  {
+    "id": "apparel-008",
+    "name": "Winter Thermal Jersey",
+    "brand": "Giant",
+    "category": "Apparels",
+    "price": 5500,
+    "stock": 9,
+    "description": "Giant's fleece-backed thermal jersey for cold morning rides. Windproof front panel and brushed inner fleece keep you warm without bulk. Full-length zip with windflap.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.6,
+      "count": 52
+    },
+    "tags": [
+      "jersey",
+      "thermal",
+      "winter",
+      "fleece"
+    ],
+    "featured": false
+  }
+]

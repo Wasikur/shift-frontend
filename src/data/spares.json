@@ -1,0 +1,342 @@
+[
+  {
+    "id": "spare-001",
+    "name": "Shimano Dura-Ace R9200 Groupset",
+    "brand": "Shimano",
+    "category": "Spares",
+    "subcategory": "Drivetrain",
+    "price": 145000,
+    "stock": 2,
+    "description": "The pinnacle of Shimano's 12-speed Di2 electronic groupset. Includes front and rear derailleurs, levers, and brakes. 0.5mm precision shifting with wireless synchronization.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1544191696-102dbdaeeaa0?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specifications": {
+      "Speeds": "12-speed",
+      "Shifting": "Di2 Electronic (wireless)",
+      "Includes": "Front derailleur, rear derailleur, dual-control levers, calipers",
+      "Compatibility": "Shimano 12-speed HG-EV cassette",
+      "Crankset": "FC-R9200 (sold separately)",
+      "Weight": "~2,050g (full group)",
+      "Shift Precision": "0.5mm"
+    },
+    "ratings": {
+      "average": 5.0,
+      "count": 9
+    },
+    "tags": [
+      "groupset",
+      "Dura-Ace",
+      "Di2",
+      "12-speed",
+      "electronic",
+      "wireless"
+    ],
+    "featured": true
+  },
+  {
+    "id": "spare-002",
+    "name": "SRAM Force AXS Rear Derailleur",
+    "brand": "SRAM",
+    "category": "Spares",
+    "subcategory": "Drivetrain",
+    "price": 28000,
+    "stock": 5,
+    "description": "SRAM Force AXS wireless rear derailleur with Orbit fluid damper. Compatible with 10-36t cassettes and all AXS ecosystem components. Drop-in replacement for existing Force setups.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1541625602330-2277a1c4b6c3?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specifications": {
+      "Speeds": "12-speed",
+      "Shifting": "AXS Wireless Electronic",
+      "Cassette Range": "10-36t",
+      "Damper": "Orbit fluid damper",
+      "Ecosystem": "SRAM AXS",
+      "Battery": "Rechargeable (USB-C)",
+      "Weight": "269g"
+    },
+    "ratings": {
+      "average": 4.8,
+      "count": 23
+    },
+    "tags": [
+      "derailleur",
+      "SRAM",
+      "AXS",
+      "wireless",
+      "12-speed"
+    ],
+    "featured": true
+  },
+  {
+    "id": "spare-003",
+    "name": "RockShox SID SL Ultimate Fork",
+    "brand": "RockShox",
+    "category": "Spares",
+    "subcategory": "Suspension",
+    "price": 58000,
+    "stock": 2,
+    "description": "Ultra-light 100mm travel XC/trail fork with RockShox's Charger Race Day damper and DebonAir spring. Carbon steerer tube. Perfect for cross-country racing upgrades.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1533234427049-9e9bb093186d?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1571333250630-f0230c373950?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507035895480-2b3156c31fc8?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specifications": {
+      "Travel": "100mm",
+      "Steerer": "Carbon tapered (1-1/8\" to 1.5\")",
+      "Damper": "Charger Race Day",
+      "Spring": "DebonAir air spring",
+      "Axle": "15mm Maxle Stealth",
+      "Brake Mount": "Flat mount",
+      "Weight": "1,395g",
+      "Discipline": "XC / Cross-country racing"
+    },
+    "ratings": {
+      "average": 4.9,
+      "count": 15
+    },
+    "tags": [
+      "fork",
+      "suspension",
+      "XC",
+      "carbon",
+      "RockShox",
+      "lightweight"
+    ],
+    "featured": false
+  },
+  {
+    "id": "spare-004",
+    "name": "Continental GP 5000 S TR Tyre",
+    "brand": "Continental",
+    "category": "Spares",
+    "subcategory": "Wheels & Tyres",
+    "price": 4800,
+    "stock": 22,
+    "description": "The Continental GP 5000 S TR is the gold standard in road tubeless tyres. Black Chili compound delivers exceptional rolling resistance and puncture protection. Available in 25c and 28c.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1487956382158-bb926046304a?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1533234427049-9e9bb093186d?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1571333250630-f0230c373950?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specifications": {
+      "Type": "Tubeless Ready (TR)",
+      "Compound": "Black Chili",
+      "Sizes Available": "700x25c, 700x28c",
+      "TPI": "330",
+      "Protection": "Vectran Breaker anti-puncture belt",
+      "Bead": "Folding",
+      "Weight": "~300g (28c)"
+    },
+    "ratings": {
+      "average": 4.9,
+      "count": 210
+    },
+    "tags": [
+      "tyre",
+      "tubeless",
+      "road",
+      "performance",
+      "Black Chili"
+    ],
+    "featured": false
+  },
+  {
+    "id": "spare-005",
+    "name": "Zipp 303 S Carbon Wheelset",
+    "brand": "Zipp",
+    "category": "Spares",
+    "subcategory": "Wheels & Tyres",
+    "price": 112000,
+    "stock": 1,
+    "description": "Zipp's versatile 303 S carbon wheelset with 45mm rim depth and hookless design. Optimized for both road and light gravel use with tubeless compatibility and ABLC aerodynamic dimpling.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1571333250630-f0230c373950?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1533234427049-9e9bb093186d?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specifications": {
+      "Rim Depth": "45mm",
+      "Rim Width (internal)": "25mm",
+      "Rim Design": "Hookless, tubeless compatible",
+      "Aerodynamics": "ABLC dimpling",
+      "Axle": "12mm thru-axle front & rear",
+      "Freehub": "Shimano HG / SRAM XDR (specify at order)",
+      "Weight": "1,536g (pair)",
+      "Max Tyre Width": "700x50c"
+    },
+    "ratings": {
+      "average": 4.9,
+      "count": 12
+    },
+    "tags": [
+      "wheels",
+      "carbon",
+      "tubeless",
+      "aero",
+      "hookless",
+      "gravel"
+    ],
+    "featured": false
+  },
+  {
+    "id": "spare-006",
+    "name": "Shimano 105 R7000 Chain",
+    "brand": "Shimano",
+    "category": "Spares",
+    "subcategory": "Drivetrain",
+    "price": 1400,
+    "stock": 35,
+    "description": "Shimano HG601 11-speed chain compatible with 105, Ultegra, and Dura-Ace 11-speed drivetrains. Nickel-plated for corrosion resistance with quick-link included.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1544191696-102dbdaeeaa0?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specifications": {
+      "Speeds": "11-speed",
+      "Model": "HG601",
+      "Finish": "Nickel-plated",
+      "Links": "116 links",
+      "Quick-Link": "Included (SM-CN910)",
+      "Compatibility": "Shimano 11-speed (105, Ultegra, Dura-Ace)",
+      "Weight": "257g"
+    },
+    "ratings": {
+      "average": 4.6,
+      "count": 156
+    },
+    "tags": [
+      "chain",
+      "11-speed",
+      "shimano",
+      "drivetrain",
+      "105"
+    ],
+    "featured": false
+  },
+  {
+    "id": "spare-007",
+    "name": "Ritchey WCS Carbon Handlebar",
+    "brand": "Ritchey",
+    "category": "Spares",
+    "subcategory": "Cockpit",
+    "price": 8500,
+    "stock": 8,
+    "description": "Ritchey's WCS carbon compact handlebar with UD carbon construction. 128g at 42cm width. Ergonomic bend provides multiple hand positions for endurance comfort.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1507035895480-2b3156c31fc8?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1533234427049-9e9bb093186d?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specifications": {
+      "Material": "UD Carbon",
+      "Width": "38cm / 40cm / 42cm / 44cm",
+      "Clamp Diameter": "31.8mm",
+      "Drop": "123mm",
+      "Reach": "70mm",
+      "Bend": "Compact ergonomic",
+      "Weight": "128g (42cm)"
+    },
+    "ratings": {
+      "average": 4.7,
+      "count": 44
+    },
+    "tags": [
+      "handlebar",
+      "carbon",
+      "compact",
+      "lightweight",
+      "cockpit"
+    ],
+    "featured": false
+  },
+  {
+    "id": "spare-008",
+    "name": "Ergon GP5 Leather Bar Tape",
+    "brand": "Ergon",
+    "category": "Spares",
+    "subcategory": "Cockpit",
+    "price": 1950,
+    "stock": 40,
+    "description": "Ergon's GP5 Leather bar tape with gel padding and micro-textured leather surface for premium grip and vibration absorption. Available in multiple colorways.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507035895480-2b3156c31fc8?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1544191696-102dbdaeeaa0?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specifications": {
+      "Material": "Micro-textured leather outer, gel padding inner",
+      "Thickness": "3.5mm",
+      "Length": "2,000mm per roll",
+      "Includes": "End plugs, finishing tape",
+      "Colors": "Black, White, Red, Blue, Tan",
+      "Weight": "78g (pair)"
+    },
+    "ratings": {
+      "average": 4.5,
+      "count": 91
+    },
+    "tags": [
+      "bar tape",
+      "leather",
+      "grip",
+      "comfort",
+      "cockpit"
+    ],
+    "featured": false
+  }
+]

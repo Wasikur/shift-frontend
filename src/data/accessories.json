@@ -1,0 +1,559 @@
+[
+  {
+    "id": "acc-001",
+    "name": "SL Power Meter — Dual Sided",
+    "brand": "Shimano",
+    "category": "Accessories",
+    "price": 32000,
+    "stock": 3,
+    "description": "The Shimano Dura-Ace dual-sided power meter delivers accurate power measurement from both legs independently. ±1% accuracy with seamless ANT+/Bluetooth dual transmission.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1511994298241-608e28f14fde?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1534787238916-9ba6764efd4f?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1576435728678-68d0fbf94946?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1452696193712-6cabf5103b63?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.9,
+      "count": 18
+    },
+    "tags": [
+      "power meter",
+      "training",
+      "data",
+      "shimano"
+    ],
+    "specifications": {
+      "Accuracy": "±1%",
+      "Connectivity": "ANT+ & Bluetooth Smart",
+      "Battery Life": "Up to 300 hours",
+      "Battery Type": "CR2032 coin cell",
+      "Water Resistance": "IPX7",
+      "Measurement": "Dual-sided (L+R independent)",
+      "Crank Compatibility": "Shimano Dura-Ace 9200",
+      "Cadence": "Built-in cadence sensor",
+      "Weight": "49g (both sides)",
+      "Firmware Updates": "Via Shimano E-Tube app"
+    },
+    "featured": true
+  },
+  {
+    "id": "acc-002",
+    "name": "Garmin Edge 1040 Solar",
+    "brand": "Garmin",
+    "category": "Accessories",
+    "price": 54000,
+    "stock": 2,
+    "description": "Garmin's flagship GPS cycling computer with solar charging, full-color mapping, ClimbPro, and advanced performance analytics. Up to 45 hours battery life in solar mode.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1544117519-31a4b719223d?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1461773518188-b3e86f98242f?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1510017803434-a899398421b3?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.8,
+      "count": 34
+    },
+    "tags": [
+      "GPS",
+      "computer",
+      "navigation",
+      "solar"
+    ],
+    "specifications": {
+      "Display": "3.5\" full-color touchscreen",
+      "Battery Life": "Up to 45 hrs (solar), 35 hrs (GPS)",
+      "Charging": "Solar + USB-C",
+      "Navigation": "Full preloaded maps, turn-by-turn",
+      "Connectivity": "ANT+, Bluetooth, Wi-Fi",
+      "Features": "ClimbPro, PacePro, Training Load",
+      "Water Rating": "IPX7",
+      "Weight": "133g",
+      "Dimensions": "91 × 56 × 19.5 mm",
+      "Memory": "32 GB internal storage"
+    },
+    "featured": true
+  },
+  {
+    "id": "acc-003",
+    "name": "Silca Titanium Bottle Cage",
+    "brand": "Silca",
+    "category": "Accessories",
+    "price": 5800,
+    "stock": 8,
+    "description": "Lightweight titanium bottle cage from Silca. Hand-welded with 3K carbon fiber inserts, weighing just 18g. Works with both standard 500ml and 750ml bottles.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1533234427049-9e9bb093186d?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1544191696-102dbdaeeaa0?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.7,
+      "count": 61
+    },
+    "tags": [
+      "bottle cage",
+      "titanium",
+      "lightweight"
+    ],
+    "specifications": {
+      "Material": "Grade 9 Titanium + 3K Carbon inserts",
+      "Weight": "18g",
+      "Bottle Compatibility": "500ml & 750ml standard",
+      "Mounting": "2-bolt standard (M5)",
+      "Bolt Spacing": "64mm",
+      "Finish": "Raw brushed titanium",
+      "Made In": "USA (hand-welded)"
+    },
+    "featured": false
+  },
+  {
+    "id": "acc-004",
+    "name": "Topeak Alien 3 Multi-Tool",
+    "brand": "Topeak",
+    "category": "Accessories",
+    "price": 3200,
+    "stock": 20,
+    "description": "27-function bicycle multi-tool with chain breaker, spoke wrenches, and hex keys from 2–8mm. Stainless steel construction with ergonomic handle. Essential for any ride.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1530124566582-a618bc2615dc?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.6,
+      "count": 112
+    },
+    "tags": [
+      "multi-tool",
+      "tool",
+      "repair",
+      "essential"
+    ],
+    "specifications": {
+      "Functions": "27",
+      "Hex Keys": "2, 2.5, 3, 4, 5, 6, 8mm",
+      "Torx Keys": "T10, T25",
+      "Screwdrivers": "Flat & Phillips",
+      "Chain Tool": "For 6–12 speed chains",
+      "Spoke Wrenches": "3 sizes included",
+      "Material": "Stainless steel + ABS handle",
+      "Weight": "186g",
+      "Includes": "Tyre levers (×2)"
+    },
+    "featured": false
+  },
+  {
+    "id": "acc-005",
+    "name": "Knog Blinder Rear Light",
+    "brand": "Knog",
+    "category": "Accessories",
+    "price": 2400,
+    "stock": 16,
+    "description": "Compact USB-rechargeable rear light with 40 lumens and 5 light modes. The integrated strap attaches to any seatpost size without tools.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1516822003754-cca485356ecb?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.4,
+      "count": 87
+    },
+    "tags": [
+      "light",
+      "safety",
+      "USB",
+      "rear"
+    ],
+    "specifications": {
+      "Lumens": "40 lm",
+      "Modes": "5 (steady, flash, pulse, eco, dazzle)",
+      "Battery": "Built-in Li-ion, micro-USB",
+      "Runtime": "Up to 20 hrs (flash mode)",
+      "Seatpost Fit": "Universal strap, 22–36mm",
+      "Water Rating": "IPX4",
+      "Weight": "34g",
+      "Visibility": "Up to 1.5 km"
+    },
+    "featured": false
+  },
+  {
+    "id": "acc-006",
+    "name": "Lezyne Macro Drive 1300+ Front Light",
+    "brand": "Lezyne",
+    "category": "Accessories",
+    "price": 7500,
+    "stock": 7,
+    "description": "1300-lumen front light with up to 22 hours runtime on economy mode. Machined aluminum body, USB-C charging, and a smart power indicator. Rated IPX7 waterproof.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1516822003754-cca485356ecb?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.7,
+      "count": 45
+    },
+    "tags": [
+      "light",
+      "front",
+      "1300 lumens",
+      "night"
+    ],
+    "specifications": {
+      "Max Output": "1300 lumens",
+      "Modes": "6 (blast, enduro, economy, day flash, overdrive, off)",
+      "Runtime": "1.5 hrs (blast) – 22 hrs (economy)",
+      "Charging": "USB-C, 3 hr full charge",
+      "Body": "CNC machined aluminum",
+      "Water Rating": "IPX7",
+      "Mount": "Lezyne Composite Matchlock",
+      "Weight": "148g (with mount)",
+      "Battery Indicator": "LED power display"
+    },
+    "featured": false
+  },
+  {
+    "id": "acc-007",
+    "name": "Fizik Aliante Adaptive Saddle",
+    "brand": "Fizik",
+    "category": "Accessories",
+    "price": 8900,
+    "stock": 5,
+    "description": "Fizik's channel-relief saddle with Adaptive 3D-printed padding matrix. Provides perfect pressure distribution for long-distance comfort at any output.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1487956382158-bb926046304a?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1571333250630-f0230c373950?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507035895480-2b3156c31fc8?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.8,
+      "count": 38
+    },
+    "tags": [
+      "saddle",
+      "comfort",
+      "3D-printed",
+      "long-distance"
+    ],
+    "specifications": {
+      "Shell": "Nylon composite",
+      "Padding": "Adaptive 3D-printed matrix",
+      "Rails": "Kium alloy",
+      "Width": "Available in 140mm / 150mm",
+      "Length": "278mm",
+      "Channel": "Central pressure-relief channel",
+      "Weight": "238g (140mm)",
+      "Rider Type": "Bull (flexible) / Chameleon (medium)",
+      "Cover": "Microtex Deluxe"
+    },
+    "featured": false
+  },
+  {
+    "id": "acc-008",
+    "name": "Wahoo Tickr X Heart Rate Monitor",
+    "brand": "Wahoo",
+    "category": "Accessories",
+    "price": 9200,
+    "stock": 11,
+    "description": "Premium chest strap heart rate monitor with internal memory for 16 hours of offline data. Broadcasts simultaneously on ANT+ and Bluetooth Smart. Includes advanced running metrics.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1461773518188-b3e86f98242f?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1510017803434-a899398421b3?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1576435728678-68d0fbf94946?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.6,
+      "count": 73
+    },
+    "tags": [
+      "HRM",
+      "heart rate",
+      "training",
+      "ANT+"
+    ],
+    "specifications": {
+      "Connectivity": "ANT+ & Bluetooth Smart (dual simultaneous)",
+      "Internal Memory": "16 hours offline storage",
+      "Battery": "CR2032, up to 500 hours",
+      "Water Rating": "IPX7",
+      "Strap Size": "55–111 cm (adjustable)",
+      "Advanced Metrics": "Cadence, vertical oscillation, ground contact",
+      "App Compatibility": "Wahoo, Zwift, Strava, TrainingPeaks",
+      "Weight": "39g (sensor only)"
+    },
+    "featured": false
+  },
+  {
+    "id": "acc-009",
+    "name": "Giro Syntax MIPS Helmet",
+    "brand": "Giro",
+    "category": "Accessories",
+    "price": 14500,
+    "stock": 6,
+    "description": "The Giro Syntax MIPS is an all-day road helmet featuring 25 wind tunnel-tuned vents and MIPS rotational protection. Roc Loc 5 Air fit system for precise, tool-free adjustment.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1582639510494-c80b5de9f148?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1517649763962-0c623066013b?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.8,
+      "count": 56
+    },
+    "tags": [
+      "helmet",
+      "MIPS",
+      "safety",
+      "road"
+    ],
+    "sizes": [
+      "S (51–55cm)",
+      "M (55–59cm)",
+      "L (59–63cm)"
+    ],
+    "specifications": {
+      "Protection": "MIPS rotational protection system",
+      "Vents": "25 wind tunnel-tuned vents",
+      "Fit System": "Roc Loc 5 Air",
+      "Shell": "In-mold polycarbonate",
+      "Certification": "CE EN1078 / CPSC",
+      "Weight": "260g (M)",
+      "Retention": "360° adjustable",
+      "Visor": "Removable",
+      "Colors": "Matte black, white, red"
+    },
+    "featured": true
+  },
+  {
+    "id": "acc-010",
+    "name": "Shimano RC702 Road Shoes",
+    "brand": "Shimano",
+    "category": "Accessories",
+    "price": 11800,
+    "stock": 9,
+    "description": "Performance road cycling shoes with a stiff carbon-reinforced sole for maximum power transfer. BOA Li2 dial closure for micro-adjustable fit on the go.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556906781-9a412961a28d?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1539185441755-769473a23570?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.7,
+      "count": 44
+    },
+    "tags": [
+      "shoes",
+      "cycling",
+      "BOA",
+      "carbon sole"
+    ],
+    "sizes": [
+      "EU 39",
+      "EU 40",
+      "EU 41",
+      "EU 42",
+      "EU 43",
+      "EU 44",
+      "EU 45",
+      "EU 46"
+    ],
+    "specifications": {
+      "Closure": "BOA Li2 dial (×2)",
+      "Sole": "Carbon-reinforced nylon, stiffness index 8",
+      "Upper": "Synthetic mesh with TPU overlays",
+      "Cleat Compatibility": "3-bolt SPD-SL",
+      "Outsole": "Carbon composite",
+      "Weight": "258g (pair, size 42)",
+      "Stack Height": "Low profile, 13mm",
+      "Ventilation": "Perforated upper mesh"
+    },
+    "featured": false
+  },
+  {
+    "id": "acc-011",
+    "name": "Castelli Aero Race 6.1 Bib Shorts",
+    "brand": "Castelli",
+    "category": "Accessories",
+    "price": 13200,
+    "stock": 12,
+    "description": "Race-cut bib shorts featuring Castelli's KISS3 chamois and Progetto X2 Air seat pad. Ultra-compressive KISS Air fabric reduces drag and delivers unmatched long-ride comfort.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1571333250630-f0230c373950?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1517649763962-0c623066013b?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1544191696-102dbdaeeaa0?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1533234427049-9e9bb093186d?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.9,
+      "count": 29
+    },
+    "tags": [
+      "bib shorts",
+      "aero",
+      "chamois",
+      "race"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "specifications": {
+      "Main Fabric": "KISS Air (84% polyamide, 16% elastane)",
+      "Chamois": "Progetto X2 Air Seat Pad",
+      "Straps": "Ultralight shoulder straps",
+      "Leg Grippers": "Silicon-free comfort band",
+      "Flatlock Seams": "Yes — chafe-free",
+      "UPF Rating": "UPF 50+",
+      "Weight": "142g (M)",
+      "Cut": "Race (high performance)"
+    },
+    "featured": false
+  },
+  {
+    "id": "acc-012",
+    "name": "Apidura Racing Saddle Bag 0.8L",
+    "brand": "Apidura",
+    "category": "Accessories",
+    "price": 6400,
+    "stock": 14,
+    "description": "Ultra-lightweight race saddle bag built for minimal aerodynamic penalty. Fits two inner tubes, a multi-tool, and CO2 inflator. Attaches via dual velcro straps, no seatpost clamps needed.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1507035895480-2b3156c31fc8?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1541625602330-2277a1c4b6c3?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "ratings": {
+      "average": 4.6,
+      "count": 52
+    },
+    "tags": [
+      "bag",
+      "saddle bag",
+      "bikepacking",
+      "lightweight"
+    ],
+    "specifications": {
+      "Capacity": "0.8 litres",
+      "Material": "100D UHMWPE + TPU laminate",
+      "Water Resistance": "Fully waterproof",
+      "Attachment": "Dual velcro straps (no clamps)",
+      "Seatpost Fit": "27.2mm–36mm",
+      "Weight": "56g",
+      "Fits": "2× inner tubes + multi-tool + CO2",
+      "Reflective": "Yes — 360° reflective strips"
+    },
+    "featured": false
+  }
+]
