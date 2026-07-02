@@ -25,12 +25,7 @@ const Cart = () => {
         return item;
       });
     }
-    const defaults = [
-      { id: 1, name: 'Trek Marlin Gen 2', price: 45900, size: 'L', qty: 1, img: newBikeUrl },
-      { id: 2, name: 'Shift Performance Jersey', price: 2499, size: 'M', qty: 1, img: newJerseyUrl }
-    ];
-    localStorage.setItem('cartItems', JSON.stringify(defaults));
-    return defaults;
+    return [];
   });
 
   useEffect(() => {
