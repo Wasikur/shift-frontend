@@ -126,10 +126,12 @@ const Navbar = () => {
           <Search size={16} className="nav-search-icon" />
           <input type="text" placeholder="SEARCH..." className="nav-search-input" />
         </div>
-        <Link to="/cart" className="nav-action-link cart-link">
-          <ShoppingCart size={22} />
-          <span className="cart-badge">{cartCount}</span>
-        </Link>
+        {user && (
+          <Link to="/cart" className="nav-action-link cart-link">
+            <ShoppingCart size={22} />
+            <span className="cart-badge">{cartCount}</span>
+          </Link>
+        )}
 
         {user ? (
           <div className="nav-user-actions" ref={profileRef} style={{ position: 'relative' }}>
